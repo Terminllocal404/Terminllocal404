@@ -11,10 +11,10 @@
 
 **Onde tecnologia, projetos e profissionais se conectam.**
 
-[![Status](https://img.shields.io/badge/status-active-00E5FF?style=flat-square&labelColor=0B0F1A)](/)
-[![Community](https://img.shields.io/badge/comunidade-técnica-00E5FF?style=flat-square&labelColor=0B0F1A)](/)
-[![Focus](https://img.shields.io/badge/foco-desenvolvimento-00E5FF?style=flat-square&labelColor=0B0F1A)](/)
-[![Ethics](https://img.shields.io/badge/cultura-ética%20%26%20respeito-00E5FF?style=flat-square&labelColor=0B0F1A)](/)
+[![Status](https://img.shields.io/badge/status-active-50f9fb?style=flat-square&labelColor=0B0F1A)](/)
+[![Community](https://img.shields.io/badge/comunidade-técnica-50f9fb?style=flat-square&labelColor=0B0F1A)](/)
+[![Focus](https://img.shields.io/badge/foco-desenvolvimento-50f9fb?style=flat-square&labelColor=0B0F1A)](/)
+[![Ethics](https://img.shields.io/badge/cultura-ética%20%26%20respeito-50f9fb?style=flat-square&labelColor=0B0F1A)](/)
 
 </div>
 
@@ -42,20 +42,11 @@ Atuamos no desenvolvimento de projetos, na troca de conhecimento e na construç�
 
 ## `> cat stack.txt`
 
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+```
+Backend:      Java | PHP | Go | Rust | Python
+Databases:    MySQL | PostgreSQL | SQLite
+Containers:   Podmer
+```
 
 ---
 
@@ -68,8 +59,11 @@ community/
 │   ├── frontend/
 │   └── database/
 ├── languages/
+│   ├── java/
 │   ├── php/
-│   └── java/
+│   ├── go/
+│   ├── rust/
+│   └── python/
 └── levels/
     ├── iniciante/
     ├── intermediario/
